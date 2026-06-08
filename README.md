@@ -388,6 +388,7 @@ Most Class 1 and Class 2 systems are built on traditional ML (gradient boosting,
 
 ## Agent-Building Frameworks
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. 4 free tools + paid trust receipts. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [LangGraph](https://github.com/langchain-ai/langgraph) — Graph-based agent orchestration; common substrate for multi-step marketing agents.
 - [Claude Agent SDK](https://docs.anthropic.com/en/docs/agents-and-tools/agent-sdk) — Anthropic's SDK for building tool-using agents; well-suited to strategy reasoning and creative chains.
 - [OpenAI Assistants and Responses API](https://platform.openai.com/docs/assistants/overview) — Default for prototyping marketing agents on the GPT stack.

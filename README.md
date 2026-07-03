@@ -408,6 +408,7 @@ Pretrained transformers on event streams and customer behavior — early but acc
 ### AI4AI for Growth
 
 LLM agents that write the experiments, generate the audiences, and propose the creative tests — automating the *inner loop* of growth itself, not just the execution. Cuts across Intelligence + Decision + Measurement layers. Most YC 2026 marketing-AI cohort entries are bets on some version of this thesis.
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for growth teams, campaigns, segmentation, and customer journeys.
 
 ### Agent-to-Agent Marketing
 

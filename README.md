@@ -529,6 +529,7 @@ See [leoncuhk/recsys-papers](https://github.com/leoncuhk/recsys-papers) for a ma
 
 ## Related Lists
 
+- [awesome-decision-models](https://github.com/leoncuhk/awesome-decision-models) — Models and methods for classification, scoring, routing and abstention, with task-level evidence and evaluation limits.
 - [awesome-quant-ai](https://github.com/leoncuhk/awesome-quant-ai) — Companion list for quantitative investment AI.
 - [recsys-papers](https://github.com/leoncuhk/recsys-papers) — Recommender systems literature.
 - [awesome-causal-inference](https://github.com/matteocourthoud/awesome-causal-inference) — Curated causal inference libraries, resources, and industry applications.

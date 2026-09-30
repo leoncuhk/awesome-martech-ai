@@ -19,3 +19,12 @@ Suggested by `alfredoautomatizaloconia-cloud` in [PR #3](https://github.com/leon
 - Supported scope: vendor describes bundled voice providers, CRM, calendar connections and per-client billing. The operator page advertises private beta and a future public launch. Inclusion records product positioning, rather than demonstrated general availability or independently verified operation.
 - Placement: an agency-oriented customer-interaction platform reference in Form 3. Its tenant isolation, deployment scale, quality checks and compliance controls were not independently inspected.
 - Limits: no public code or reproducible deployment evidence was examined. Pricing/usage details differ across product pages, so exact rates, margins, savings and beta testimonials are excluded. Capability descriptions do not establish sales lift or service resolution.
+
+## BulkPublish
+
+Suggested by Muhammad Azeem (`azeemkafridi`) in [PR #5](https://github.com/leoncuhk/awesome-martech-ai/pull/5). The linked repository is published under the contributor's GitHub account; treat it as author/vendor material.
+
+- Evidence: the [repository README](https://github.com/azeemkafridi/bulkpublish-api/blob/a3c568ef983643b3793f92d3638201797a6b5a4b/README.md), [OpenAPI specification](https://github.com/azeemkafridi/bulkpublish-api/blob/a3c568ef983643b3793f92d3638201797a6b5a4b/openapi.json), [MCP documentation](https://github.com/azeemkafridi/bulkpublish-api/blob/a3c568ef983643b3793f92d3638201797a6b5a4b/mcp-server/README.md) and [skill catalog](https://github.com/azeemkafridi/bulkpublish-api/blob/a3c568ef983643b3793f92d3638201797a6b5a4b/skills/social-media-content-skills/README.md), revision `a3c568e` dated 2026-09-29.
+- Supported scope: public Python/Node clients, API definitions, MCP integration and readable workflow skills describe draft, scheduling, review and publishing operations. They call the hosted BulkPublish service with account credentials and connected social channels; the repository does not establish that the publishing backend is self-hostable.
+- Placement: Activation, for social-content delivery and workflow integration. Planning/review skills are inspectable instructions, rather than independently validated strategy or safety guarantees.
+- Limits: no authenticated publishing test, platform-wide coverage audit, reliability measurement or incremental effect estimate. Platform/tool counts, pricing, free-tier superlatives and efficacy claims are excluded.

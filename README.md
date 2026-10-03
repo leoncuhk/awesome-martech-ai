@@ -410,6 +410,7 @@ Keep **answer visibility (GEO/AEO), human-facing ads in AI interfaces, agent-ass
 - [Daydream](https://withdaydream.com/) — Search/content optimization reference; evaluate its specific workflow before assigning an AI-commerce role.
 - [Scrunch AI](https://www.scrunchai.com/) — AI-discovery analysis and optimization reference.
 - [Sitefire](https://www.ycombinator.com/companies/sitefire) — YC profile describes visibility analysis, content optimization and CMS actions, not paid AI-channel placement; reviewed 2026-09-30.
+- [LogNorm](https://lognorm.com/) — SEO/GEO growth platform that tracks how ChatGPT, Gemini and Google AI Overviews answer a team's prompts and hands ranked site fixes to Claude Code, Codex or Cursor over MCP ([docs](https://lognorm.com/docs/getting-started)). Public product positioning only; no independent outcome evidence. Reviewed 2026-10-03.
 
 Discovery shifts are hypotheses to track, not proof that SEO/SEM must be entirely rewritten or that a category has no scale. Sample a defined query distribution repeatedly, record model/version, and connect visibility to qualified demand with an appropriate evaluation.
 

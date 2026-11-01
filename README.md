@@ -410,6 +410,7 @@ Keep **answer visibility (GEO/AEO), human-facing ads in AI interfaces, agent-ass
 - [Daydream](https://withdaydream.com/) — Search/content optimization reference; evaluate its specific workflow before assigning an AI-commerce role.
 - [Scrunch AI](https://www.scrunchai.com/) — AI-discovery analysis and optimization reference.
 - [Sitefire](https://www.ycombinator.com/companies/sitefire) — YC profile describes visibility analysis, content optimization and CMS actions, not paid AI-channel placement; reviewed 2026-09-30.
+- [OneLence](https://onelence.com/ai-visibility) — Vendor-described product that helps marketing teams find growth opportunities and decide what to do next across ads, search, affiliate partners and AI visibility (whether ChatGPT, Claude, Perplexity and Gemini name, link to or cite a brand); product reference, with unverified business effects; reviewed 2026-10-09.
 
 Discovery shifts are hypotheses to track, not proof that SEO/SEM must be entirely rewritten or that a category has no scale. Sample a defined query distribution repeatedly, record model/version, and connect visibility to qualified demand with an appropriate evaluation.
 

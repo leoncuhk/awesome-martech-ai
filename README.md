@@ -451,6 +451,8 @@ Tabular and sequence models may reduce modeling effort, but customer-event trans
 
 Agents can draft hypotheses, check contracts and prepare creative tests. Keep randomization, estimands, exclusions, analysis code and approvals auditable; automated experiment generation can create multiple-testing and selection problems.
 
+- [MarketMirror](https://github.com/DarkWorldCoder/market-mirror) — Open-source MCP/CLI for exploring ads, prices and pitches with simulated buyers; maker-maintained code and a saved synthetic demo, not evidence of predictive accuracy or causal lift. [Source review](docs/community-resource-reviews.md#marketmirror), checked 2026-10-31.
+
 ### Discovery and Agent Commerce
 
 Structured product data, citations, AI-interface ads and authorized purchases create different opportunities. Distinguish observed capabilities from hypotheses about displacement and agent-to-agent markets. Measure consent, task completion, transaction errors and incremental business value separately.

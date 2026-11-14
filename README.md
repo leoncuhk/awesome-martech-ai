@@ -285,6 +285,8 @@ The major buying surfaces are Google Ads, Meta Ads, Amazon Ads, TikTok Ads, reta
 
 ### Creative Production and DCO
 
+- [Kling MCP & CLI](https://kling.ai/app/mcp/guide) — Hosted image and video generation for creative asset workflows via OAuth; vendor capability documentation, paid personal-workspace credits required, business impact unverified; reviewed 2026-11-14.
+
 - [Multi-Armed Bandits for Creative Optimization](https://research.facebook.com/publications/bandit-optimization/) — Meta's approach to creative testing at scale.
 - [Dynamic Creative Optimization](https://www.thinkwithgoogle.com/marketing-strategies/automation/dynamic-creative-optimization/) — Google's framework for combinatorial creative.
 
